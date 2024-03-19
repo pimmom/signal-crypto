@@ -7,6 +7,8 @@
 
 **Development state: Beta (Code is stable, documentation is often lagging)**
 
+![GRIN](https://github.com/pimmom/signal-crypto/assets/164097566/59feecdc-635b-492a-aa69-548f62e233d9)
+
 **Join our community Discord channel! (2,100+ members)**
 
 Crypto Signals is a command line tool that automates your crypto currency Technical Analysis (TA). It is maintained by a community of traders, engineers, data scientists, PMs, & countless generous individuals who wish to democratize the equal & open access to the greatest wealth re-distribution experiment in human and monetary policy history - Bitcoin
